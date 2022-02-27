@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Major+Mono+Display&display=swap');
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+#clock {
+  font-size: 3em;
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-family: 'Major Mono Display', monospace;
+  font-weight: 300;
+  color: greenyellow;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-family: 'Major Mono Display', monospace;
+  font-weight: 300;
+  color: greenyellow;
+  margin-top: 100px;
+}
+
+#img {
+  width: 270px;
+  margin-top: 30px;
+}
